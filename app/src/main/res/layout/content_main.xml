@@ -21,6 +21,11 @@
             android:layout_width="100dp"
             android:layout_height="35dp"
             android:text="TextView" />
+        <TextView
+            android:id="@+id/etiq2"
+            android:layout_width="100dp"
+            android:layout_height="35dp"
+            android:text="TextView" />
 
         <Button
             android:id="@+id/buton1"
